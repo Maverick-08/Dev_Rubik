@@ -19,8 +19,6 @@ function App() {
           <Route path="/teams" element={<Teams />} />
           <Route path="/about" element={<About />} />
           <Route path="/gallery" element={<Gallery />} />
-          <Route path="/notice" element={<Notice />} />
-          <Route path="/register" element={<Register />} />
         </Routes>
       </BrowserRouter>
     </>
