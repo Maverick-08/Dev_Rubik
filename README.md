@@ -15,4 +15,9 @@
   
 9. Refer the image for making a constructive PR
     
-![Description](https://github.com/user-attachments/assets/175681b7-528d-4a5b-acce-a22b239e35c8)
+![Description](https://github.com/user-attachments/assets/175681b7-528d-4a5b-acce-a22b239e35c8)  
+
+# Keeping the branch updated
+1. When your branch has been merged, switch to the main branch and run : git merge origin/development.
+2. The above command will pull the updated code into your main repo and then you can create another branch.
+3. It is preferred to perform Step 1 before making a PR so that you can incorporate the updated changes in your active branch(i.e the feature branch).
