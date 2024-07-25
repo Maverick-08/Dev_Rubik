@@ -6,7 +6,6 @@ import Event from "./pages/Event.jsx";
 import Teams from "./pages/Teams.jsx";
 import About from "./pages/About.jsx";
 import Gallery from "./pages/Gallery.jsx";
-import Register from "./pages/Register.jsx";
 
 function App() {
   return (
